@@ -264,7 +264,7 @@ main, .footer { position: relative; z-index: 1; }
 /* Quote */
 .quote-band { padding: clamp(5rem, 11vw, 9rem) 0; text-align: center; }
 .quote { max-width: 980px; margin: 0 auto; display: flex; flex-direction: column; align-items: center; }
-.quote__mark { width: 58px; height: 52px; color: var(--navy-800); margin-bottom: 2.5rem; }
+.quote__mark { width: clamp(110px, 14vw, 170px); height: auto; color: var(--navy-800); }
 .quote blockquote p { font-family: var(--serif); font-weight: 400; font-size: clamp(1.8rem, 3.8vw, 3.1rem); line-height: 1.22; color: var(--ink); }
 .quote blockquote em { color: var(--gold-600); }
 .quote figcaption { margin-top: 2.25rem; font-size: .66rem; letter-spacing: .32em; text-transform: uppercase; color: var(--ink-soft); }

@@ -1,16 +1,15 @@
 # Texas Real Estate Fund
 
-> Texas Real Estate Fund is a newly established real estate investment firm based in Houston, Texas. It identifies real estate investment opportunities with a focus on long-term value creation. Tagline: "Beyond the Property."
+> Texas Real Estate Fund is a real estate investment firm based in Houston, Texas. It identifies real estate investment opportunities with a focus on long-term value creation. Tagline: "Beyond the Property."
 
 ## Key facts
 - Name: Texas Real Estate Fund
 - Type: Boutique real estate investment firm
 - Headquarters: Houston, Texas, United States
-- Founded: 2026
 - Focus: Real estate investment opportunities in Texas with a long-term value perspective
 - Principles: Long-term perspective, disciplined evaluation, aligned partnerships, integrity and stewardship
 - Approach: Identify, Evaluate, Structure, Steward
-- Contact: info@texasrealestatefund.com (investment opportunities, potential partnerships, general inquiries)
+- Contact: Or@texasrealestatefund.com (investment opportunities, potential partnerships, general inquiries)
 
 ## Pages
 - [Home](https://www.texasrealestatefund.com/): Introduction, philosophy, principles, approach and contact details

@@ -1,5 +1,5 @@
-/* Texas Real Estate Fund — UI interactions */
-const EMAIL = 'info@texasrealestatefund.com'; // keep in sync with index.html
+/* Texas Real Estate Fund: UI interactions */
+const EMAIL = 'Or@texasrealestatefund.com'; // keep in sync with index.html
 
 const body = document.body;
 const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -102,8 +102,8 @@ form.addEventListener('submit', (e) => {
     return;
   }
   err.textContent = '';
-  const subject = `${topic} — ${name}`;
-  const text = `${msg}\n\n— ${name}`;
+  const subject = `${topic}: ${name}`;
+  const text = `${msg}\n\n${name}`;
   track('contact_form_compose', { inquiry_type: topic });
   window.location.href = `mailto:${EMAIL}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(text)}`;
 });
