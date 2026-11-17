@@ -1,5 +1,5 @@
 /* Texas Real Estate Fund: UI interactions */
-const EMAIL = 'Or@texasrealestatefund.com'; // keep in sync with index.html
+const EMAIL = 'info@texasrealestatefund.com'; // keep in sync with index.html
 
 const body = document.body;
 const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;

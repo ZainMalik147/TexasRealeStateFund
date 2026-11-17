@@ -19,7 +19,7 @@ robots.txt  sitemap.xml  llms.txt  site.webmanifest
 | Placeholder | Where |
 |---|---|
 | `https://www.texasrealestatefund.com` (domain) | index.html (canonical, OG, JSON-LD), robots.txt, sitemap.xml, llms.txt |
-| `Or@texasrealestatefund.com` (email) | index.html (3×, plus JSON-LD), assets/js/main.js `EMAIL`, llms.txt |
+| `info@texasrealestatefund.com` (email) | index.html (3×, plus JSON-LD), assets/js/main.js `EMAIL`, llms.txt |
 | `G-XXXXXXXXXX` (GA4 Measurement ID) | index.html `window.TREF_GA_ID` |
 | Search Console / Bing verification codes | index.html (commented meta tags) |
 
