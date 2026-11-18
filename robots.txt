@@ -65,4 +65,4 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
-Sitemap: https://www.texasrealestatefund.com/sitemap.xml
+Sitemap: https://texasrealestate.fund/sitemap.xml
